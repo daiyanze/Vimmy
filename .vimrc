@@ -1,7 +1,6 @@
 " import configs before
 source ~/.vimmy/configs/before.vim
 
-
 " import plugins
 call plug#begin('~/.vim/plugged')
 source ~/.vimmy/configs/plugins.vim
@@ -18,7 +17,6 @@ Plug 'mattn/emmet-vim'
 Plug 'w0rp/ale'
 
 " End of Custom Plugins "
-
 call plug#end()
 
 " import configs after
