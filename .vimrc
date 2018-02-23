@@ -14,7 +14,8 @@ Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'isRuslan/vim-es6'
 Plug 'flowtype/vim-flow'
-
+Plug 'mattn/emmet-vim'
+Plug 'w0rp/ale'
 
 " End of Custom Plugins "
 
