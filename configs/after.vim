@@ -2,7 +2,7 @@
 "=== Themes Configuration ==="
 "============================="
 "" set vim-airline theme
-let g:airline_theme='onedark'
+let g:airline_theme='solarized'
 
 "" set vim theme
 silent! colorscheme solarized8_flat
