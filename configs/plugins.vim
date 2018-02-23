@@ -11,4 +11,5 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'flazz/vim-colorschemes'
 Plug 'lifepillar/vim-solarized8'
 Plug 'airblade/vim-gitgutter'
+Plug 'jszakmeister/vim-togglecursor'
 
