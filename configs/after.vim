@@ -17,3 +17,6 @@ map <C-n> :NERDTreeToggle<CR>
 
 "" auto close vim if the only window is a nerdTree
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+"" set Tagbar keyboard shortcut
+nmap <C-B> :TagbarToggle<CR>
