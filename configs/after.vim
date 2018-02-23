@@ -5,9 +5,7 @@
 let g:airline_theme='onedark'
 
 "" set vim theme
-if exists('vim-solarized8')
-  colorscheme solarized8_flat
-endif
+silent! colorscheme solarized8_flat
 
 
 "============================="
