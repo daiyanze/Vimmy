@@ -7,3 +7,5 @@ yes | cp -rf ~/.vimmy/.vimrc ~/.vimrc
 
 # install plugins
 vim +PlugInstall +qall
+
+echo Enjoy Vim!
