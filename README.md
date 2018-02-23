@@ -1,12 +1,13 @@
 # Vimmy
 A beginner-friendly vim configuration
 
-### Install
+### MacOS & Linux
+##### Install
 ```
 git clone https://github.com/daiyanze/Vimmy ~/.vimmy && bash ~/.vimmy/install.sh
 ```
 
-### UnInstall
+##### UnInstall
 ```
 bash ~/.vimmy/uninstall.sh
 ```
