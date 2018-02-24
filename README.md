@@ -5,8 +5,11 @@ A beginner-friendly vim configuration.
 Vimmy is nothing new but a simple vim configuration in my own taste.
 It has a very easy to understand structure. So if you want any customization,
 simple add scripts in `.vimrc` file.
+
 For loading global configurations, put them in `.configs/before.vim`.
+
 For loading plugins, directly put them in .vimrc.
+
 For loading other configurations, put them in `.configs/after.vim`.
 
 ##### Vimmy Work Flow:
@@ -52,7 +55,7 @@ I think they work better than vim on Windows.
 4. Install plugins with [vim-plug](https://github.com/junegunn/vim-plug) by vim command `:PlugInstall`
 
 ### FAQ
-Ask me anything about this configuration. I'm not an expert but We can share experience together.
+Ask me anything about this configuration. I'm not an expert but we can share experience together.
 Thanks.
 
 ### License
