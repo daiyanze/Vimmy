@@ -1,5 +1,6 @@
 # Vimmy
 A beginner-friendly vim configuration.
+[screenshot]('/doc/screenshot.png')
 
 ### Intro
 Vimmy is nothing new but a simple vim configuration in my own taste.
