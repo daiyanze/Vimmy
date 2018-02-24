@@ -48,8 +48,8 @@ bash ~/.vimmy/uninstall.sh
 ```
 
 ### Windows
-Please consider to use Editors like Sublime/Atom/VScode.
-I think they work better than vim on Windows.
+Please consider to use editors like Sublime/Atom/VScode.
+I think they work better than Vim on Windows.
 ##### Install
 1. Install the default plugins from `./configs/plugins.vim`. with [vim-plug](https://github.com/junegunn/vim-plug)
 2. Combine `./configs/before.vim` `.vimrc` `./configs/plugins.vim` `./configs/after.vim` into one file `_vimrc`
@@ -62,4 +62,3 @@ Thanks.
 
 ### License
 MIT
-
