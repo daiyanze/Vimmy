@@ -10,7 +10,7 @@ simple add scripts in `.vimrc` file.
 
 For loading global configurations, put them in `.configs/before.vim`.
 
-For loading plugins, directly put them in .vimrc.
+For loading plugins, directly put them in `.vimrc`.
 
 For loading other configurations, put them in `.configs/after.vim`.
 
