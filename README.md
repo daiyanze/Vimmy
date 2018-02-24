@@ -4,8 +4,8 @@ A beginner-friendly vim configuration.
 ![Screenshot](doc/screenshot.png)
 
 ### Intro
-Vimmy is nothing new but a simple vim configuration in my own taste.
-It has a very easy to understand structure. So if you want any customization,
+Vimmy is nothing new but a simple vim configuration under my own taste.
+It has a very easy-to-understand structure. So if you want any customization,
 simple add scripts in `.vimrc` file.
 
 For loading global configurations, put them in `.configs/before.vim`.
