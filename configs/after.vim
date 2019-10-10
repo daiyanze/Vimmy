@@ -5,7 +5,7 @@
 let g:airline_theme='solarized'
 
 "" set vim theme
-silent! colorscheme solarized8_flat
+silent! colorscheme solarized8_low
 
 
 "============================="
